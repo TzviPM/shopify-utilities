@@ -12,8 +12,8 @@ This package uses a monorepo approach. Links to individual packages can be found
 
 | package | | |
 |-----------------|--|--|
-| `javascript-utilities` | README | [![npm version](https://badge.fury.io/js/%40shopify%2Fjavascript-utilities.svg)](https://badge.fury.io/js/%40shopify%2Fjavascript-utilities) |
-| `react-utilities` | README | [![npm version](https://badge.fury.io/js/%40shopify%2Freact-utilities.svg)](https://badge.fury.io/js/%40shopify%2Freact-utilities) |
+| `javascript-utilities` | [README](https://github.com/tzvipm/shopify-utilities/blob/master/packages/javascript-utilities/README.md) | [![npm version](https://badge.fury.io/js/%40shopify%2Fjavascript-utilities.svg)](https://badge.fury.io/js/%40shopify%2Fjavascript-utilities) |
+| `react-utilities` | [README](https://github.com/tzvipm/shopify-utilities/blob/master/packages/react-utilities/README.md) | [![npm version](https://badge.fury.io/js/%40shopify%2Freact-utilities.svg)](https://badge.fury.io/js/%40shopify%2Freact-utilities) |
 
 ## Contribute
 
