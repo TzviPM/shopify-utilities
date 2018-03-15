@@ -1,4 +1,10 @@
 {
   "name": "javascript-utilities",
-  "version": "2.0.0"
+  "version": "3.0.0",
+  "dependencies": {
+    "@types/lodash": "^4.14.104",
+    "@types/react": "^16.0.40",
+    "lodash": "^4.17.5",
+    "lodash-decorators": "^4.5.0"
+  }
 }
