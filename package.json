@@ -1,0 +1,5 @@
+{
+  "name": "shopify-utilities",
+  "private": true,
+  "workspaces": ["javascript-utilities", "react-utilities"]
+}
