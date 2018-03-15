@@ -1,5 +1,5 @@
 {
-  "name": "react-utilities",
+  "name": "@shopify/react-utilities",
   "version": "2.0.0",
   "dependencies": {
     "@types/classnames": "^2.2.3",
@@ -8,7 +8,7 @@
     "@types/react-addons-transition-group": "^15.0.2",
     "classnames": "^2.2.5",
     "core-js": "^2.5.3",
-    "javascript-utilities": "^3.0.0",
+    "@shopify/javascript-utilities": "^3.0.0",
     "react-addons-transition-group": "^15.6.2"
   }
 }

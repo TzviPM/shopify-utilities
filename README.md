@@ -10,10 +10,10 @@ This package uses a monorepo approach. Links to individual packages can be found
 
 ## Packages
 
-| package | | | |
-|-----------------|--|--|--|
-| `javascript-utilities` | README | npm | CI |
-| `react-utilities` | README | npm | CI |
+| package | | |
+|-----------------|--|--|
+| `javascript-utilities` | README | [![npm version](https://badge.fury.io/js/%40shopify%2Fjavascript-utilities.svg)](https://badge.fury.io/js/%40shopify%2Fjavascript-utilities) |
+| `react-utilities` | README | [![npm version](https://badge.fury.io/js/%40shopify%2Freact-utilities.svg)](https://badge.fury.io/js/%40shopify%2Freact-utilities) |
 
 ## Contribute
 
