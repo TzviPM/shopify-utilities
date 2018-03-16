@@ -3,6 +3,10 @@
     "packages/javascript-utilities/**/*.js": true,
     "packages/javascript-utilities/**/*.d.ts": true,
     "packages/javascript-utilities/decorators": true,
+    "packages/react-utilities/**/*.js": true,
+    "packages/react-utilities/**/*.d.ts": true,
+    "packages/react-utilities/animation": true,
     "**/node_modules": true
-  }
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
 }

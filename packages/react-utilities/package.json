@@ -1,6 +1,11 @@
 {
   "name": "@shopify/react-utilities",
   "version": "2.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "lint": "tslint -c ../../configs/tslint/full.json './src/**/*.{ts,tsx}' --exclude './node_modules/**/*.{ts,tsx}' --project tsconfig.json --type-check"
+  },
   "dependencies": {
     "@types/classnames": "^2.2.3",
     "@types/node": "^9.4.7",
@@ -10,5 +15,12 @@
     "core-js": "^2.5.3",
     "@shopify/javascript-utilities": "^3.0.0",
     "react-addons-transition-group": "^15.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^2.5.3",
+    "tslint": "^5.8.0",
+    "tslint-config-shopify": "^3.0.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
   }
 }
