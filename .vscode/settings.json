@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "packages/javascript-utilities/**/*.js": true,
+    "packages/javascript-utilities/**/*.d.ts": true,
+    "packages/javascript-utilities/decorators": true,
+    "**/node_modules": true
+  }
+}
